@@ -1,8 +1,10 @@
-haaaaaaaaaaaaaaaaaaaaaaaa
-
-oh yea there are things i should add here
-
 to run this you should get uv (astral.sh/uv) (cos uv's good)
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+then do the following,;
 
 ```bash
 uv venv
